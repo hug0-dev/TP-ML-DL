@@ -2,7 +2,7 @@
 
 Projet final du Mastère Dev, Data & IA : classification de textes courts en anglais parmi 6 émotions (sadness, joy, love, anger, fear, surprise).
 
-**Webapp en ligne : [à compléter]**
+**Webapp en ligne : https://detecteur-emotions-hugo.streamlit.app/
 
 ## Contenu du dépôt
 
